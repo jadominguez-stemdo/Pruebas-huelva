@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 prueba stash holaaaa
 Hola a los dos 
+=======
+prueba stash
+basura
+>>>>>>> Stashed changes
